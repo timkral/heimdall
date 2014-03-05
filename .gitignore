@@ -1,0 +1,5 @@
+.idea
+
+.heimdall.config
+*.pyc
+*~
